@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3 align="center">Hello My Friends Im xrevix You Can Call Me Revix </a><img src="https://cdn.discordapp.com/emojis/862221093073715200.gif?v=1" width="30">
 
 
