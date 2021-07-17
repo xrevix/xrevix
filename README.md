@@ -37,7 +37,7 @@ const xrevix = require('xrevix.gfx');
 ### 🔗 Connect To Me
 
 
-[<img src='https://discord.com/api/guilds/860065216309493770/widget.png?style=banner2' width='0' height='100' />](https://discord.gg/CYrggYTj)]
+[<img src='https://discord.com/api/guilds/860065216309493770/widget.png?style=banner2' width='50' height='100' />](https://discord.gg/CYrggYTj)]
   ![discord](https://discord.c99.nl/widget/theme-3/777449557876277249.png)
 
 
