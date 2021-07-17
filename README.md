@@ -38,7 +38,7 @@ const xrevix = require('xrevix.gfx');
 
 
 
-[![server](https://discord.com/api/guilds/860065216309493770/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat) [![discord](https://discord.c99.nl/widget/theme-3/777449557876277249.png)
+[![server](https://discord.com/api/guilds/860065216309493770/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat) ![discord](https://discord.c99.nl/widget/theme-3/777449557876277249.png)
 
 
 
