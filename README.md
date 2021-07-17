@@ -28,7 +28,7 @@ const xrevix = require('xrevix.gfx');
 
 ## 🔧 Tools
 
-![node.js](https://img.icons8.com/color/70/nodejs.png)![github](https://img.icons8.com/material-outlined/70/github.png)![vc](https://img.icons8.com/color/70/visual-studio-code-2019.png)![photoshop](https://img.icons8.com/fluent/70/adobe-photoshop.png)![premiere](https://img.icons8.com/color/70/adobe-premiere-pro--v1.png)![belender](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/70px-Blender_logo_no_text.svg.png)![JavaScript](https://img.icons8.com/color/70/javascript.png)
+![node.js](https://img.icons8.com/color/40/nodejs.png)![github](https://img.icons8.com/material-outlined/40/github.png)![vc](https://img.icons8.com/color/40/visual-studio-code-2019.png)![photoshop](https://img.icons8.com/fluent/40/adobe-photoshop.png)![premiere](https://img.icons8.com/color/40/adobe-premiere-pro--v1.png)![belender](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/40px-Blender_logo_no_text.svg.png)![JavaScript](https://img.icons8.com/color/40/javascript.png)
 
 
 
