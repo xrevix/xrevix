@@ -47,8 +47,9 @@ const xrevix = require('xrevix.gfx');
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrevix&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
-</a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xrevix&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
 
+
+<a style="text-decoration: none;" href="">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=xrevix&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
 
