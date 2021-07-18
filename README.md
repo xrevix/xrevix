@@ -40,4 +40,12 @@ const xrevix = require('xrevix.gfx');
     [![server](https://discord.com/api/guilds/860065216309493770/widget.png?style=banner2)](https://discord.gg/CYrggYTj) 
 
 
+### 🔧 Github
+
+
+</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrevix&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+
+
 
