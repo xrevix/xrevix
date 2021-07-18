@@ -20,7 +20,7 @@
 const xrevix = require('xrevix.gfx');
     if (msg.content === '!name') {
      msg.reply('xrevix👻')
-    Description: "Follow Your Dreems💚",
+    Description: "Follow your Dreams💚",
     Age: console.log("not public 💩")
     FavouriteLanguage: "Javascript; 
     };
