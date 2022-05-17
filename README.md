@@ -1,48 +1,65 @@
-<h3 align="center">Hello My Friends Im xrevix You Can Call Me Revix </a><img src="https://cdn.discordapp.com/emojis/862221093073715200.gif?v=1" width="30">
+
+<div align="center">
+    <h1>Hello World <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_1f44b.png" /> </h1>
+</div>
+‏‏‎ ‎
+‏‏‎ ‎
 
 
-
-
-
+<h1 align="Left">
+    📘Language
+</h1>
 <p align="center">
-  <a href="https://discord.gg/gpwu5SgVdg"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://instagram.com/xrevix.gfx"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UC1qEnKdcl5pen_04O8HpzOQ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-     <a href="https://open.spotify.com/user/ilh15lfeqznq6s2egokr4njnd"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  <a href="https://twitter.com/xrevix_fn"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-7289DA?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  
-  
-  
+    <img src="https://skillicons.dev/icons?i=js,python,cpp,html" />
 </p>
 
-#  🙋‍♂️ Hey There
-```
-const xrevix = require('xrevix.gfx');
-    if (msg.content === '!name') {
-     msg.reply('xrevix👻')
-    Description: "Follow your Dreams💚",
-    Age: console.log("not public 💩")
-    FavouriteLanguage: "Javascript; 
-    };
-```
 
-## 🔧 Tools
+<h1 align="Left">
+    🎈Tools
+</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=discord,twitter,vscode,blender,ps,powershell,github" />
+</p>
+      
 
-![node.js](https://img.icons8.com/color/60/nodejs.png)![github](https://img.icons8.com/material-outlined/60/github.png)![vc](https://img.icons8.com/color/60/visual-studio-code-2019.png)![photoshop](https://img.icons8.com/fluent/60/adobe-photoshop.png)![premiere](https://img.icons8.com/color/60/adobe-premiere-pro--v1.png)![belender](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/60px-Blender_logo_no_text.svg.png)![JavaScript](https://img.icons8.com/color/60/javascript.png)
+<h1 align="Left">
+    🔗Connect To Me
+</h1>
+<p align="Left">
+  <a href="https://discord.com/users/777449557876277249">
+    <img src="https://lanyard.cnrad.dev/api/777449557876277249?theme=Dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20">
+  </a>
+  <p>‎ <p>
+</p>
+<p align="Left">
+  <a href="https://discord.gg/DhbYaD8tp3">
+    <img src="https://discordapp.com/api/guilds/976076812960550952/widget.png?style=banner1">
+  </a>
+  <p>‎ <p>
+</p>
+
+<h1 align="Left">
+    🙋‍♂️About Me
+</h1>
+<div align="Left">
+    <p> 14/yo • Python • JS • Learning C++ & HTML <p>
+    <p>‎ <p>
+</div>
 
 
 
-
-
-### 🔗 Connect To Me
-
-  ![discord](https://discord.c99.nl/widget/theme-3/777449557876277249.png)
-
-
-### 💻 Github
-
-
-  ![discord](https://github-readme-stats.vercel.app/api?username=xrevix&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true)
-    ![github](https://github-readme-stats.vercel.app/api/top-langs/?username=xrevix&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true)
-
+<h1 align="Left">
+    💻 Github
+</h1>
+</h1>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=xrevix&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true"/>
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrevix&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
