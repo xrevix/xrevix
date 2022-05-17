@@ -22,21 +22,40 @@
 </p>
       
 
+
+
+
+
+
 <h1 align="Left">
     🔗Connect To Me
 </h1>
-<p align="Left">
-  <a href="https://discord.com/users/777449557876277249">
-    <img src="https://lanyard.cnrad.dev/api/777449557876277249?theme=Dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20">
-  </a>
-  <p>‎ <p>
-</p>
-<p align="Left">
-  <a href="https://discord.gg/DhbYaD8tp3">
-    <img src="https://discordapp.com/api/guilds/976076812960550952/widget.png?style=banner1">
-  </a>
-  <p>‎ <p>
-</p>
+</h1>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+    <a  a href="https://discord.com/users/827254269434396712">
+      <img align="center" style="padding=0;" src="https://lanyard.cnrad.dev/api/777449557876277249?theme=Dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20"/>
+    </a>
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+    <a  a href="https://discord.gg/DhbYaD8tp3">
+      <img align="center" style="padding=0;" src="https://discordapp.com/api/guilds/976076812960550952/widget.png?style=banner1"/>
+    </a>
+    </td>
+  </tr>
+</table>
+</table>
+
+
+
+
+
+
+
+
+
+
 
 <h1 align="Left">
     🙋‍♂️About Me
