@@ -86,9 +86,5 @@
     💜Love You!
 </h1>
 <p align="center">
-  <h1>  <img width="30px" src="" /> <h1>
+  <h1>  <img src="https://cdn.discordapp.com/attachments/974725156155031595/976917100318834728/ezgif-4-83452e06d5.png?size=4096" /> 
 </p>
-
-<div align="center">
-    <h1>LOVE YOU<img width="50px" src="https://cdn.discordapp.com/attachments/974725156155031595/976917100318834728/ezgif-4-83452e06d5.png?size=4096" /> </h1>
-</div>
