@@ -35,7 +35,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
     <a  a href="https://discord.com/users/827254269434396712">
-      <img align="center" style="padding=0;" src="https://lanyard.cnrad.dev/api/777449557876277249?theme=Dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20"/>
+      <img align="center" style="padding=0;" src="https://lanyard.cnrad.dev/api/777449557876277249?theme=Dark&animated=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20"/>
     </a>
     </td>
     <td align="center" style="padding=0;width=50%;">
